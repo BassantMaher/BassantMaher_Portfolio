@@ -105,7 +105,7 @@ export const HeroSection = () => {
             <div className="relative">
               <div className="w-80 h-80 rounded-full bg-gradient-to-br from-primary to-accent p-1">
                 <img
-                  src="../images/bassant.jpg"
+                  src="https://res.cloudinary.com/dzgtcsjjg/image/upload/v1753277061/bassant_yw5m6q.jpg"
                   alt="Bassant Maher Ibrahim Sayed"
                   className="w-full h-full rounded-full object-cover"
                 />

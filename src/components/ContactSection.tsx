@@ -144,18 +144,18 @@ export const ContactSection = () => {
                   </Button>
                 </a>
                 <a
-                  href="/cv/cv__Copy_.pdf"
+                  href="https://drive.google.com/drive/folders/1vmv9H7LuJN7bFAYlmj_XHwja8M1cabLs?usp=sharing"
                   download
                   target="_blank"
                   rel="noopener noreferrer"
-                  aria-label="Download CV"
+                  aria-label="View CV"
                 >
                   <Button 
                     variant="outline"
                     className="border-primary text-primary hover:bg-primary hover:text-white"
                   >
                     <Download size={16} className="mr-2" />
-                    Download CV
+                    View CV
                   </Button>
                 </a>
               </div>
