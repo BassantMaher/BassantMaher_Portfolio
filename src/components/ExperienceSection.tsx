@@ -3,20 +3,20 @@ import { Badge } from '@/components/ui/badge';
 import { MapPin, Calendar } from 'lucide-react';
 
 const experiences = [
-  {
-    title: 'Software Engineer',
-    company: 'Deal.ai',
-    location: 'Cairo, Egypt',
-    period: 'August 2020 - July 2025',
-    type: 'Full-time',
-    description: 'Contributed to customizing a fork of Grapes.JS as the CMS for Deal.ai, enhancing content management capabilities.',
-    achievements: [
-      'Customized Grapes.JS framework for enhanced CMS functionality',
-      'Improved content management workflows and user experience',
-      'Collaborated with cross-functional teams on product development'
-    ],
-    technologies: ['JavaScript', 'Grapes.JS', 'CMS Development', 'Frontend Development']
-  },
+  // {
+  //   title: 'Software Engineer',
+  //   company: 'Deal.ai',
+  //   location: 'Cairo, Egypt',
+  //   period: 'August 2020 - July 2025',
+  //   type: 'Full-time',
+  //   description: 'Contributed to customizing a fork of Grapes.JS as the CMS for Deal.ai, enhancing content management capabilities.',
+  //   achievements: [
+  //     'Customized Grapes.JS framework for enhanced CMS functionality',
+  //     'Improved content management workflows and user experience',
+  //     'Collaborated with cross-functional teams on product development'
+  //   ],
+  //   technologies: ['JavaScript', 'Grapes.JS', 'CMS Development', 'Frontend Development']
+  // },
   {
     title: 'Machine Learning Intern',
     company: 'Microsoft Digital Egypt Pioneers Initiative (DEPI)',
